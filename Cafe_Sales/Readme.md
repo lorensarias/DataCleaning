@@ -32,4 +32,11 @@ Preview of the Raw data :
    - Cake - 3
 Given this situation, all products with prices 3 and 4 will be classified as N/A.
 
+- Remove rows with EMTPY Q
 ![alt text](image.png) 
+
+6. Remove All unecesary data that has missing information:
+
+- Remove rows with N/A -  Replace all UNKNOWN , ERROR WITH N/A 
+- Remove rows with EMTPY Quantity , ITEM NAME AND PRICE 
+- Remote rows with N/A,ITEM NAME, NO QUANTY,NO TOTAL, ONLY PRICE PER ITEM 
