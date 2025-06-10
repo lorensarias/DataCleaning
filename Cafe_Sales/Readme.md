@@ -1,8 +1,11 @@
-**Data Cleaning for the Dirty_cafe_Sales.Csv 
-**
+#Data Cleaning for the Dirty_cafe_Sales.Csv 
+
 
 Preview of the Raw data : 
 <img width="1283" alt="image" src="https://github.com/user-attachments/assets/c5e8a377-e81f-4736-82ec-8d33468d5eca" />
+
+Sheet dirty_cafe_sales - RAW Contains 
+
 
 **Step taken: **
 
@@ -25,18 +28,20 @@ Preview of the Raw data :
 - Salad	5
 - Tea	1.5
 
-5. There are products with the same price :
+5. With PowerQuery, transform the date into 3 parts: day, month, and year. 
+
+6. There are products with the same price :
    - Sandwich - 4
    - Smoothies - 4
    - Juice - 3 
    - Cake - 3
 Given this situation, all products with prices 3 and 4 will be classified as N/A.
 
-- Remove rows with EMTPY Q
 ![alt text](image.png) 
 
-6. Remove All unecesary data that has missing information:
+7. Remove all unnecessary data that has missing information:
 
 - Remove rows with N/A -  Replace all UNKNOWN , ERROR WITH N/A 
-- Remove rows with EMTPY Quantity , ITEM NAME AND PRICE 
-- Remote rows with N/A,ITEM NAME, NO QUANTY,NO TOTAL, ONLY PRICE PER ITEM 
+- Remove rows with EMTPY Quantity, ITEM NAME, AND PRICE 
+- Remote rows with N/A ,ITEM NAME, NO QUANTY, NO TOTAL, ONLY PRICE PER ITEM
+
