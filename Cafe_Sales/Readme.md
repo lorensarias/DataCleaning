@@ -4,9 +4,10 @@
 Preview of the Raw data : 
 <img width="1283" alt="image" src="https://github.com/user-attachments/assets/c5e8a377-e81f-4736-82ec-8d33468d5eca" />
 
-Sheet dirty_cafe_sales - RAW Contains 
+<B>Sheet dirty_cafe_sales - RAW Contains : </B>
 <table>
-   <th>Columns</th>
+   <TR>
+   <th>Columns</th></TR>
    <tr>Transaction ID</tr>
    <tr>Items</tr>
    <tr>Price Per Unit</tr>
