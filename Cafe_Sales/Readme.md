@@ -30,6 +30,6 @@ Preview of the Raw data :
    - Smoothies - 4
    - Juice - 3 
    - Cake - 3
-Given this situation, all products with prices 3 and 4 will be classified as N/A.
 
+Given this situation, all products with prices 3 and 4 will be classified as N/A.
 ![alt text](image.png) 
