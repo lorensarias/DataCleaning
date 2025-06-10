@@ -1,11 +1,20 @@
-#Data Cleaning for the Dirty_cafe_Sales.Csv 
-
+<h2><p font-size="18pt" color="Red" align="center"> Data Cleaning for the Dirty_cafe_Sales.Csv</p></h2>
+<hr>
 
 Preview of the Raw data : 
 <img width="1283" alt="image" src="https://github.com/user-attachments/assets/c5e8a377-e81f-4736-82ec-8d33468d5eca" />
 
 Sheet dirty_cafe_sales - RAW Contains 
-
+<table>
+   <th>Columns</th>
+   <tr>Transaction ID</tr>
+   <tr>Items</tr>
+   <tr>Price Per Unit</tr>
+   <tr>Total Spend</tr>
+   <tr>Payment Method</tr>
+   <tr>Location</tr>
+   <tr>Transaction Date</tr>
+</table>
 
 **Step taken: **
 
