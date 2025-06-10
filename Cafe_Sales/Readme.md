@@ -30,9 +30,12 @@ Preview of the Raw data :
    - Smoothies - 4
    - Juice - 3 
    - Cake - 3
-Given this situation, all products with prices 3 and 4 will be classified as N/A.
 
+<<<<<<< HEAD
 - Remove rows with EMTPY Q
+=======
+Given this situation, all products with prices 3 and 4 will be classified as N/A.
+>>>>>>> ecea1a964d026d0433896670ca7cc5bab1397c48
 ![alt text](image.png) 
 
 6. Remove All unecesary data that has missing information:
