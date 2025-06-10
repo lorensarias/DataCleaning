@@ -1,5 +1,5 @@
-Data Cleaning for the Dirty_cafe_Sales.Csv 
-
+**Data Cleaning for the Dirty_cafe_Sales.Csv 
+**
 
 Preview of the Raw data : 
 <img width="1283" alt="image" src="https://github.com/user-attachments/assets/c5e8a377-e81f-4736-82ec-8d33468d5eca" />
