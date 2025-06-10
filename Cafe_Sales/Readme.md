@@ -53,5 +53,26 @@ Given this situation, all products with prices 3 and 4 will be classified as N/A
 
 - Remove rows with N/A -  Replace all UNKNOWN , ERROR WITH N/A 
 - Remove rows with EMTPY Quantity, ITEM NAME, AND PRICE 
-- Remote rows with N/A ,ITEM NAME, NO QUANTY, NO TOTAL, ONLY PRICE PER ITEM
+- Remote rows with N/A, ITEM NAME, NO QUANTY, NO TOTAL, ONLY PRICE PER ITEM
+</hr>
+
+<h2 aling="center">Findings</h2>
+
+<p> - Bar Chart that shows the sales and number of items sold during 2023. Salads were the items that were sold the most and it the number of items sold was 3815.</p>
+<img width="778" alt="image" src="https://github.com/user-attachments/assets/0ccc3d73-2c41-4007-bfc0-27c29bdc0cb3" />
+</br>
+<p> - Line Chart that shows months with the highest sales and lower sales. This can help the business to identify which months may need deals to bring more customers. This also shows how the sale fluctuates over the year. </p>
+<img width="926" alt="image" src="https://github.com/user-attachments/assets/a6a27e4a-d69d-48d9-b2bd-42ba0d14fdf0" />
+</br>
+<p> - Line Chart that shows the top 3 products that sold the most in 2023. </p>
+<img width="1251" alt="image" src="https://github.com/user-attachments/assets/9e27ca3b-e8b9-428c-b7f4-02e5d00dd16e" />
+</br>
+<p> - Line Chart that shows the 3 Items with the lower sales during 2023 , including N/A </p>
+<img width="1208" alt="image" src="https://github.com/user-attachments/assets/8435bc5d-14ae-411b-82fa-6dd365c49e4e" />
+</br>
+<p> - Line Chart and Pie Chart that shows the Payment method and the number of transactions done during 2023. It also shows the percentages of payment methods classified as N/A for missing or unknown data. </p>
+<img width="479" alt="image" src="https://github.com/user-attachments/assets/b12dcba7-2341-44af-ad4e-23428706fa06" />
+
+<img width="471" alt="image" src="https://github.com/user-attachments/assets/e63828f8-6c08-435d-a02d-5dad2e861c54" />
+
 
