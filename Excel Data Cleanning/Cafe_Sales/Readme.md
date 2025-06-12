@@ -5,19 +5,18 @@ Preview of the Raw data :
 <img width="1283" alt="image" src="https://github.com/user-attachments/assets/c5e8a377-e81f-4736-82ec-8d33468d5eca" />
 
 <B>Sheet dirty_cafe_sales - RAW Contains : </B>
-<table border="1">
-  <tr>
-    <th>Transaction ID</th>
-    <th>Items</th>
-    <th>Price Per Unit</th>
-    <th>Total Spend</th>
-    <th>Payment Method</th>
-    <th>Location</th>
-    <th>Transaction Date</th>
-  </tr>
-</table>
+</br>
+<ul>
+  <li>Transaction ID</li>
+  <li>Items</li>
+  <li>Price Per Unit</li>
+  <li>Total Spend</li>
+  <li>Payment Method</li>
+  <li>Location</li>
+  <li>Transaction Date</li>
+</ul>
 
-**Step taken: **
+<h2>**Step taken: **</h2>
 
 1. Check for duplicates - No duplicates
 2. Remove TXT from the transaction ID - Keep only the useful information that we can use to identify each transaction
@@ -54,7 +53,7 @@ Given this situation, all products with prices 3 and 4 will be classified as N/A
 - Remote rows with N/A, ITEM NAME, NO QUANTY, NO TOTAL, ONLY PRICE PER ITEM
 </hr>
 
-<h2 aling="center">Findings</h2>
+<h2 aling="center">**Findings**</h2>
 
 <p> - Bar Chart that shows the sales and number of items sold during 2023. Salads were the items that were sold the most and it the number of items sold was 3815.</p>
 <img width="778" alt="image" src="https://github.com/user-attachments/assets/0ccc3d73-2c41-4007-bfc0-27c29bdc0cb3" />
