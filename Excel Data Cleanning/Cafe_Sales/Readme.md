@@ -18,18 +18,19 @@ Preview of the Raw data :
 
 <h2>**Step taken: **</h2>
 
-1. Check for duplicates - No duplicates
-2. Remove TXT from the transaction ID - Keep only the useful information that we can use to identify each transaction
+1. Duplicate the raw File  - dirty_cafe_sales_1.xls -- This will be our working file
+2. Check for duplicates - No duplicates
+3. Remove TXT from the transaction ID - Keep only the useful information that we can use to identify each transaction
    Use the right function to obtain only the transaction number.
 <img width="1120" alt="image" src="https://github.com/user-attachments/assets/bcd8cafc-0700-49a3-93ad-4a324dbac9dd" />
 
-3. Fill out Quantity based on the TotalPrice, Price per Item:
+4. Fill out Quantity based on the TotalPrice, Price per Item:
    
   - Quantity =  TotalPrice / Price
   - Price = TotalPrice / Quantity
   - TotalPrice = Quantity * Price
 
-4. Fill out the Item based on observing the prices of each item:
+5. Fill out the Item based on observing the prices of each item:
 
 - Coffee	2
 - Cookie	1
@@ -37,16 +38,16 @@ Preview of the Raw data :
 - Salad	5
 - Tea	1.5
 
-5. With PowerQuery, transform the date into 3 parts: day, month, and year. 
+6. With PowerQuery, transform the date into 3 parts: day, month, and year. 
 
-6. There are products with the same price :
+7. There are products with the same price :
    - Sandwich - 4
    - Smoothies - 4
    - Juice - 3 
    - Cake - 3
 Given this situation, all products with prices 3 and 4 will be classified as N/A.
 
-7. Remove all unnecessary data that has missing information:
+8. Remove all unnecessary data that has missing information:
 
 - Remove rows with N/A -  Replace all UNKNOWN , ERROR WITH N/A 
 - Remove rows with EMTPY Quantity, ITEM NAME, AND PRICE 
