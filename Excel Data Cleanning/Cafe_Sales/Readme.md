@@ -5,16 +5,16 @@ Preview of the Raw data :
 <img width="1283" alt="image" src="https://github.com/user-attachments/assets/c5e8a377-e81f-4736-82ec-8d33468d5eca" />
 
 <B>Sheet dirty_cafe_sales - RAW Contains : </B>
-<table>
-   <TR>
-   <th>Columns</th></TR>
-   <tr>Transaction ID</tr>
-   <tr>Items</tr>
-   <tr>Price Per Unit</tr>
-   <tr>Total Spend</tr>
-   <tr>Payment Method</tr>
-   <tr>Location</tr>
-   <tr>Transaction Date</tr>
+<table border="1">
+  <tr>
+    <th>Transaction ID</th>
+    <th>Items</th>
+    <th>Price Per Unit</th>
+    <th>Total Spend</th>
+    <th>Payment Method</th>
+    <th>Location</th>
+    <th>Transaction Date</th>
+  </tr>
 </table>
 
 **Step taken: **
