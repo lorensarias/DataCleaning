@@ -47,8 +47,6 @@ Preview of the Raw data :
    - Cake - 3
 Given this situation, all products with prices 3 and 4 will be classified as N/A.
 
-![alt text](image.png) 
-
 7. Remove all unnecessary data that has missing information:
 
 - Remove rows with N/A -  Replace all UNKNOWN , ERROR WITH N/A 
